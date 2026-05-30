@@ -83,9 +83,14 @@ a:hover { color: var(--color-primary-dark); text-decoration: underline; }
 .brand:hover { text-decoration: none; }
 .brand-logo {
     display: block;
-    height: 54px;
+    height: 64px;
     width: auto;
-    max-width: min(100%, 215px);
+    max-width: min(100%, 245px);
+    padding: 0.35rem 0.8rem;
+    background: #fff;
+    border-radius: 999px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.18);
+    box-sizing: border-box;
     flex-shrink: 0;
 }
 .brand-mark {
