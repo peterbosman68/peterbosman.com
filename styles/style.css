@@ -77,11 +77,17 @@ a:hover { color: var(--color-primary-dark); text-decoration: underline; }
 .brand {
     display: flex;
     align-items: center;
-    gap: 1.1em;
     text-decoration: none;
     color: #fff;
 }
 .brand:hover { text-decoration: none; }
+.brand-logo {
+    display: block;
+    height: 54px;
+    width: auto;
+    max-width: min(100%, 215px);
+    flex-shrink: 0;
+}
 .brand-mark {
     width: 54px;
     height: 54px;

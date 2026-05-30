@@ -1,0 +1,28 @@
+<svg width="430" height="200" viewBox="0 0 430 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Logo Peter Bosman – altijd op zoek naar Beter</title>
+  <desc>Horizontaal logo met cirkel monogram PB links en naam plus tagline rechts, transparante achtergrond</desc>
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;family=Raleway:wght@300;500&amp;display=swap');
+    </style>
+  </defs>
+
+  <!-- Cirkel monogram -->
+  <circle cx="100" cy="100" r="72" fill="#1B2A3E"/>
+  <circle cx="100" cy="100" r="66" fill="none" stroke="#F5C947" stroke-width="2"/>
+  <circle cx="100" cy="100" r="60" fill="none" stroke="#F5C947" stroke-width="0.5" opacity="0.4"/>
+  <text x="100" y="116" text-anchor="middle"
+    font-family="Playfair Display, serif" font-size="38" font-weight="700" fill="#F5C947">PB</text>
+
+  <!-- Naam: Peter -->
+  <text x="196" y="90"
+    font-family="Playfair Display, serif" font-size="52" font-weight="700" fill="#1B2A3E">Peter</text>
+
+  <!-- Scheidingslijn -->
+  <line x1="196" y1="104" x2="430" y2="104" stroke="#F5C947" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Tagline -->
+  <text x="196" y="130"
+    font-family="Raleway, sans-serif" font-size="14" font-weight="300" letter-spacing="1.5" fill="#5A6A7A">altijd op zoek naar <tspan font-weight="500" fill="#C49A28">Beter</tspan></text>
+
+</svg>
