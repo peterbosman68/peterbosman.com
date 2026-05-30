@@ -83,9 +83,9 @@ a:hover { color: var(--color-primary-dark); text-decoration: underline; }
 .brand:hover { text-decoration: none; }
 .brand-logo {
     display: block;
-    height: 64px;
+    height: 80px;
     width: auto;
-    max-width: min(100%, 245px);
+    max-width: min(100%, 320px);
     padding: 0.35rem 0.8rem;
     background: #fff;
     border-radius: 999px;
